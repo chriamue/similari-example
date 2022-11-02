@@ -9,3 +9,4 @@ readme = "README.md"
 repository = "https://github.com/chriamue/similari-example"
 
 [dependencies]
+similari = "0.22.9"
