@@ -1,0 +1,11 @@
+[package]
+name = "similari-example"
+version = "0.1.0"
+edition = "2021"
+description = "Example for similari object tracker test."
+authors = ["Christian <chriamue@gmail.com>"]
+license = "MIT"
+readme = "README.md"
+repository = "https://github.com/chriamue/similari-example"
+
+[dependencies]
